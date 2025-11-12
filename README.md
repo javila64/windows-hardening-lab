@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # 🛡️ Windows Hardening Lab
 
 A documentation of my Windows hardening journey.  
@@ -76,4 +73,4 @@ Each step includes notes and screenshots for clarity.
 
 ## Step 7: Final Review
 *(Repeat structure)*
->>>>>>> eb87724 (Fix case: rename readme.md to README.md and update content)
+
